@@ -1,0 +1,23 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 15 14:12:57 CST 2016
+http\://repo1.maven.org/maven2/.lastUpdated=1432096168897
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1432096189081
+http\://172.16.1.12\:8889/nexus/content/groups/public/.lastUpdated=1481782376812
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1432096156525
+http\://repo.maven.apache.org/maven2/.lastUpdated=1481782377086
+http\://repo.spring.io/release/.lastUpdated=1432096167194
+http\://download.java.net/maven/2/.lastUpdated=1432096157278
+http\://repo.maven.apache.org/maven2/.error=
+default-https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1432096188886
+http\://download.java.net/maven/2/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1432096174609
+http\://maven.oschina.net/content/groups/public/.error=
+http\://172.16.1.12\:8889/nexus/content/groups/public/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1481782376887
+http\://10.0.103.109\:8889/nexus/content/groups/public/.lastUpdated=1432096152148
+http\://repo.spring.io/release/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=Could not transfer artifact com.ckfinder\:apache-ant-zip\:pom\:2.3 from/to activiti-repos2 (https\://app.camunda.com/nexus/content/groups/public)\: null to https\://app.camunda.com/nexus/content/groups/public/com/ckfinder/apache-ant-zip/2.3/apache-ant-zip-2.3.pom
+http\://repo1.maven.org/maven2/.error=
+http\://maven.jeesite.com/nexus/content/groups/public/.error=
+http\://10.0.103.109\:8889/nexus/content/groups/public/.error=

@@ -1,0 +1,23 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 15 14:13:00 CST 2016
+http\://repo1.maven.org/maven2/.lastUpdated=1432096554275
+default-http\://repo.spring.io/release/.lastUpdated=1432096551592
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1432096582652
+http\://172.16.1.12\:8889/nexus/content/groups/public/.lastUpdated=1481782379107
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1432096536757
+http\://repo.maven.apache.org/maven2/.lastUpdated=1481782380687
+http\://download.java.net/maven/2/.lastUpdated=1432096538213
+http\://repo.maven.apache.org/maven2/.error=
+default-https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1432096570041
+http\://download.java.net/maven/2/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1432096557663
+http\://maven.oschina.net/content/groups/public/.error=
+http\://172.16.1.12\:8889/nexus/content/groups/public/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1481782379208
+http\://10.0.103.109\:8889/nexus/content/groups/public/.lastUpdated=1432096401207
+http\://repo.spring.io/release/.error=Could not transfer artifact com.ckfinder\:ckfinderplugin-imageresize\:jar\:2.3 from/to springsource-repos (http\://repo.spring.io/release/)\: null to http\://repo.spring.io/release/com/ckfinder/ckfinderplugin-imageresize/2.3/ckfinderplugin-imageresize-2.3.jar
+https\://app.camunda.com/nexus/content/groups/public/.error=Could not transfer artifact com.ckfinder\:ckfinderplugin-imageresize\:jar\:2.3 from/to activiti-repos2 (https\://app.camunda.com/nexus/content/groups/public)\: null to https\://app.camunda.com/nexus/content/groups/public/com/ckfinder/ckfinderplugin-imageresize/2.3/ckfinderplugin-imageresize-2.3.jar
+http\://repo1.maven.org/maven2/.error=
+http\://maven.jeesite.com/nexus/content/groups/public/.error=
+http\://10.0.103.109\:8889/nexus/content/groups/public/.error=
